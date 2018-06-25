@@ -31,3 +31,15 @@ East River Rd/Pkwy => East River Rd/Pkwy
 Hopkins Crossroad => Hopkins Crossroad
 CR 25 => CR 25
 
+#Query the Database
+Using the sample SQL project provided as a starting point I queried the database for counts of nodes, ways, users, ammenities, and other information.
+Number of nodes: 1190824
+Number of ways: 175548
+Number of unique users:  1170
+Top contributing users:  [('Mulad', 363169), ('stucki1', 191859), ('Omnific', 110829), ('iandees', 100431), ('woodpeck_fixbot', 55176), ('DavidF', 49305), ('houston_mapper1', 36825), ('rhardy', 35227), ('neuhausr', 34958), ('sota767', 28796)]
+Number of users contributing once:  228
+Common Ammenities:  ('restaurant', 504)
+Biggest religion:  ('christian', 38)
+Popular cuisines:  ('pizza', 31)
+
+I was surprised that pizza was the number one cuisine considering the number of steakhouses in Minneapolis and it's proximity and availablity to farms!
