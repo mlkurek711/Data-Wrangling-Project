@@ -74,12 +74,13 @@ data.py – file provided by Udacity for converting osm file to csv files
 data_wrangling_schema.py – created database and tables using specified schema
 mapparser.py – showed the tags in the XML and the count of each tag
 MPLS.db – database created of Minneapolis, MN
-MPLS.osm – export from OpenStreetMap
-nodes.csv – csv of all the nodes in the MPLS.osm file
+MPLS_sample_sample.osm – sample of the sample of the export from OpenStreetMap; only way it would fit in GitHub
+nodes.csv – csv of all the nodes in the MPLS_sample.osm file
 nodes_tags.csv – csv of tags of nodes
 schema.py – schema provided by Udacity
 tags.py – file provided by Udacity to find common errors in the MPLS.osm file
-ways.csv – csv of all the ways in the MPLS.osm file
+ways.csv – csv of all the ways in the MPLS_sample.osm file
 ways_nodes – csv of nodes of ways
 ways_tags – csv of tags of ways
 readme – this file
+
