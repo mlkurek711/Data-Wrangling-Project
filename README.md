@@ -18,3 +18,4 @@
 'problemchars': 0
 'other': 9663
 
+#Using the provided audit.py several street names were updated from abbreviations to full names.  I added N, S, E, W, Circle, and Highway to the mapping list which updated quite a few more street names.  One could further clean the data by finding addresses that ended with a suite number, and creating a more extensive list 
